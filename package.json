@@ -1,10 +1,10 @@
 {
   "name": "wildersnode",
   "version": "1.0.0",
-  "description": "node wilder.js",
+  "description": "node wilders.js",
   "main": "wilder.js",
   "scripts": {
-    "start": "node wilder.js",
+    "start": "node wilders.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
