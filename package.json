@@ -1,8 +1,8 @@
 {
   "name": "wildersnode",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "node wilder.js",
+  "main": "wilder.js",
   "scripts": {
     "start": "node wilder.js",
     "test": "echo \"Error: no test specified\" && exit 1"
